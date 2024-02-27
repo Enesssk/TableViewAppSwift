@@ -16,6 +16,7 @@
 		DE59FAA32B8E22C2004C92B0 /* LandMarkAppSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE59FAA22B8E22C2004C92B0 /* LandMarkAppSwiftTests.swift */; };
 		DE59FAAD2B8E22C2004C92B0 /* LandMarkAppSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE59FAAC2B8E22C2004C92B0 /* LandMarkAppSwiftUITests.swift */; };
 		DE59FAAF2B8E22C2004C92B0 /* LandMarkAppSwiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE59FAAE2B8E22C2004C92B0 /* LandMarkAppSwiftUITestsLaunchTests.swift */; };
+		DE59FABC2B8E245D004C92B0 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE59FABB2B8E245D004C92B0 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DE59FAA82B8E22C2004C92B0 /* LandMarkAppSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandMarkAppSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE59FAAC2B8E22C2004C92B0 /* LandMarkAppSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarkAppSwiftUITests.swift; sourceTree = "<group>"; };
 		DE59FAAE2B8E22C2004C92B0 /* LandMarkAppSwiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarkAppSwiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DE59FABB2B8E245D004C92B0 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DE59FA942B8E22C2004C92B0 /* Assets.xcassets */,
 				DE59FA962B8E22C2004C92B0 /* LaunchScreen.storyboard */,
 				DE59FA992B8E22C2004C92B0 /* Info.plist */,
+				DE59FABB2B8E245D004C92B0 /* DetailsViewController.swift */,
 			);
 			path = LandMarkAppSwift;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				DE59FA902B8E22C1004C92B0 /* ViewController.swift in Sources */,
 				DE59FA8C2B8E22C1004C92B0 /* AppDelegate.swift in Sources */,
 				DE59FA8E2B8E22C1004C92B0 /* SceneDelegate.swift in Sources */,
+				DE59FABC2B8E245D004C92B0 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
